@@ -1,6 +1,6 @@
 # 🎏 About the Project 
 
-This project started as a personal challenge. When I first saw this type of game, I really liked it. As a beginner in game development, <ins> I wondered if I could build a game like that myself</ins>*.
+This project started as a personal challenge. When I first saw this type of game, I really liked it. As a beginner in game development, <b> I wondered if I could build a game like that myself</b>*.
 
 So I decided to try recreating a similar type of game as a way to practice and learn more about game development. The goal of this project was mainly to challenge myself and improve my skills as a beginner.
 
@@ -12,7 +12,7 @@ Unlimited Ammo – The player has unlimited ammo, so you can focus on shooting a
 
 Simple Enemy System – Enemies appear and the player must shoot them to survive.
 
-The game still contains many bugs, since this was mainly a learning project. If I get interested in this project again in the future, I will try to fix them and make a completely different version of this game.
+⚠️ The game still contains many bugs, since this was mainly a learning project. If I get interested in this project again in the future, I will try to fix them and make a completely different version of this game.
 
 # 🚩 Importaent : 
 ## 🥏 Enemeys Dont Have Attack Animation.
