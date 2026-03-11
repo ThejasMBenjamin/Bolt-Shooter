@@ -1,28 +1,28 @@
-# 🎏 About the Project 
+# 🎏 About the Project
 
-This project started as a personal challenge. When I first saw this type of game, I really liked it. As a beginner in game development, <b> I wondered if I could build a game like that myself</b>*.
+This project began as a personal challenge. When I first encountered this type of game, I really liked it. As a beginner in game development, **I wondered if I could build a game like that myself**.
 
-So I decided to try recreating a similar type of game as a way to practice and learn more about game development. The goal of this project was mainly to challenge myself and improve my skills as a beginner.
+So, I decided to recreate a similar game as a way to practice and improve my skills. The main goal was to challenge myself and learn more about game development.
 
-# 🎲 The Game 
+# 🎲 The Game
 
-Different Guns – Each gun has its own rotation limitation, meaning every weapon can aim within a different angle range.
+- **Different Guns:** Each gun has its own rotation limits, meaning every weapon can aim within a specific angle range.  
+- **Unlimited Ammo:** The player has unlimited ammo, allowing you to focus on shooting and gameplay without worrying about running out of bullets.  
+- **Simple Enemy System:** Similar to other games of this type.
 
-Unlimited Ammo – The player has unlimited ammo, so you can focus on shooting and gameplay without worrying about running out of bullets.
+⚠️ This game still contains many bugs since it is primarily a learning project. If I become interested in this project again, I plan to fix the issues and create a more complete version.
 
-Simple Enemy System – Same as Other Games...
+# 🚩 Important
 
-⚠️ The game still contains many bugs, since this was mainly a learning project. If I get interested in this project again in the future, I will try to fix them and make a completely different version of this game.
-
-# 🚩 Importaent : 
 <a name="enemeys-dont-have-attack-animation"></a>
-## 🥏 Enemeys Dont Have Attack Animation. 
+## 🥏 Enemeys Don't Have Attack Animation
 
-During development, I made a big mistake. I didn't properly check the asset pack before starting the project.
+During development, I made a significant mistake by not properly checking the asset pack before starting.
 
-In the middle of development, I realized that the enemy asset pack did not include attack animations. That moment was very frustrating and honestly made me feel like quitting the project.
+Midway through development, I realized the enemy asset pack lacked attack animations. This was frustrating and honestly made me consider quitting the project.
 
-Because the enemy assets don't have attack animations, I lost interest in continuing to work on the project. However, I still decided to finish it instead of abandoning it completely.
+Because the enemy assets don't have attack animations, I lost some interest in continuing. However, I decided to finish the project rather than abandon it entirely.
 
-#
+# 🔖 Download
 
+You can download the current version [here](https://github.com/ThejasMBenjamin/Bolt-Shooter/releases/tag/v0.1).
