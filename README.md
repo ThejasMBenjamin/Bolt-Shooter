@@ -10,6 +10,9 @@ So, I decided to recreate a similar game as a way to practice and improve my ski
 - **Unlimited Ammo:** The player has unlimited ammo, allowing you to focus on shooting and gameplay without worrying about running out of bullets.  
 - **Simple Enemy System:** Similar to other games of this type.
 
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/2869b7aa-254e-4ee2-9983-84433cbdbf64" />
+
+
 ⚠️ This game still contains many bugs since it is primarily a learning project. If I become interested in this project again, I plan to fix the issues and create a more complete version.
 
 # 🚩 Important
