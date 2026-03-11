@@ -10,7 +10,7 @@ Different Guns – Each gun has its own rotation limitation, meaning every weapo
 
 Unlimited Ammo – The player has unlimited ammo, so you can focus on shooting and gameplay without worrying about running out of bullets.
 
-Simple Enemy System – Enemies appear and the player must shoot them to survive.
+Simple Enemy System – Same as Other Games...
 
 ⚠️ The game still contains many bugs, since this was mainly a learning project. If I get interested in this project again in the future, I will try to fix them and make a completely different version of this game.
 
