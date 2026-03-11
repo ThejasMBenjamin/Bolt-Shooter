@@ -23,6 +23,6 @@ Midway through development, I realized the enemy asset pack lacked attack animat
 
 Because the enemy assets don't have attack animations, I lost some interest in continuing. However, I decided to finish the project rather than abandon it entirely.
 
-# 🔖 Download
+# 🏷️ Download
 
 You can download the current version [here](https://github.com/ThejasMBenjamin/Bolt-Shooter/releases/tag/v0.1).
